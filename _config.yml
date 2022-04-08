@@ -9,7 +9,7 @@ name: ops | sdn 1 watugede
 description: Berbagi info dunia pendidikan
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars.githubusercontent.com/u/49328595?v=4
+avatar: https://avatars.githubusercontent.com/u/45113671?s=400&u=1cc0c8a1860db9290d5d57b18b87b9ba335a0de7&v=4
 
 #
 # Flags below are optional
@@ -18,7 +18,7 @@ avatar: https://avatars.githubusercontent.com/u/49328595?v=4
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: sdn1watugede@my.id
   facebook:
   flickr:
   github: barryclark/jekyll-now
